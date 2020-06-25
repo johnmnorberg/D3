@@ -1,0 +1,2012 @@
+{
+	"nodes": [
+	  {
+		"Style": "American Light Lager",
+		"Sub-style": "",
+		"Family": "1. STANDARD AMERICAN BEER",
+		"OG_min": 1.028,
+		"OG_max": 1.04,
+		"FG_min": 0.998,
+		"FG_max": 1.008,
+		"ABV_min": 2.8,
+		"ABV_max": 4.2,
+		"IBU_min": 8,
+		"IBU_max": 12
+	  },
+	  {
+		"Style": "American Lager",
+		"Sub-style": "",
+		"Family": "1. STANDARD AMERICAN BEER",
+		"OG_min": 1.04,
+		"OG_max": 1.05,
+		"FG_min": 1.004,
+		"FG_max": 1.01,
+		"ABV_min": 4.2,
+		"ABV_max": 5.3,
+		"IBU_min": 8,
+		"IBU_max": 18
+	  },
+	  {
+		"Style": "Cream Ale",
+		"Sub-style": "",
+		"Family": "1. STANDARD AMERICAN BEER",
+		"OG_min": 1.042,
+		"OG_max": 1.055,
+		"FG_min": 1.006,
+		"FG_max": 1.012,
+		"ABV_min": 2.5,
+		"ABV_max": 4.2,
+		"IBU_min": 8,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "American Wheat Beer",
+		"Sub-style": "",
+		"Family": "1. STANDARD AMERICAN BEER",
+		"OG_min": 1.04,
+		"OG_max": 1.055,
+		"FG_min": 1.008,
+		"FG_max": 1.013,
+		"ABV_min": 4,
+		"ABV_max": 5.5,
+		"IBU_min": 15,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "International Pale Lager",
+		"Sub-style": "",
+		"Family": "2. INTERNATIONAL LAGER",
+		"OG_min": 1.042,
+		"OG_max": 1.05,
+		"FG_min": 1.008,
+		"FG_max": 1.012,
+		"ABV_min": 4.6,
+		"ABV_max": 6,
+		"IBU_min": 18,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "International Amber Lager",
+		"Sub-style": "",
+		"Family": "2. INTERNATIONAL LAGER",
+		"OG_min": 1.042,
+		"OG_max": 1.055,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 4.6,
+		"ABV_max": 6,
+		"IBU_min": 8,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "International Dark Lager",
+		"Sub-style": "",
+		"Family": "2. INTERNATIONAL LAGER",
+		"OG_min": 1.044,
+		"OG_max": 1.056,
+		"FG_min": 1.008,
+		"FG_max": 1.012,
+		"ABV_min": 4.2,
+		"ABV_max": 6,
+		"IBU_min": 8,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Czech Pale Lager",
+		"Sub-style": "",
+		"Family": "3. CZECH LAGER",
+		"OG_min": 1.028,
+		"OG_max": 1.044,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 3,
+		"ABV_max": 4.1,
+		"IBU_min": 20,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Czech Premium Pale Lager",
+		"Sub-style": "",
+		"Family": "3. CZECH LAGER",
+		"OG_min": 1.044,
+		"OG_max": 1.06,
+		"FG_min": 1.013,
+		"FG_max": 1.017,
+		"ABV_min": 3.5,
+		"ABV_max": 4.2,
+		"IBU_min": 30,
+		"IBU_max": 45
+	  },
+	  {
+		"Style": "Czech Amber Lager",
+		"Sub-style": "",
+		"Family": "3. CZECH LAGER",
+		"OG_min": 1.044,
+		"OG_max": 1.06,
+		"FG_min": 1.013,
+		"FG_max": 1.017,
+		"ABV_min": 4.4,
+		"ABV_max": 5.8,
+		"IBU_min": 20,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Czech Dark Lager",
+		"Sub-style": "",
+		"Family": "3. CZECH LAGER",
+		"OG_min": 1.044,
+		"OG_max": 1.06,
+		"FG_min": 1.013,
+		"FG_max": 1.017,
+		"ABV_min": 4.4,
+		"ABV_max": 5.8,
+		"IBU_min": 18,
+		"IBU_max": 34
+	  },
+	  {
+		"Style": "Munich Helles",
+		"Sub-style": "",
+		"Family": "4. PALE MALTY EUROPEAN LAGER",
+		"OG_min": 1.044,
+		"OG_max": 1.048,
+		"FG_min": 1.006,
+		"FG_max": 1.012,
+		"ABV_min": 4.7,
+		"ABV_max": 5.4,
+		"IBU_min": 16,
+		"IBU_max": 22
+	  },
+	  {
+		"Style": "Festbier",
+		"Sub-style": "",
+		"Family": "4. PALE MALTY EUROPEAN LAGER",
+		"OG_min": 1.054,
+		"OG_max": 1.057,
+		"FG_min": 1.01,
+		"FG_max": 1.012,
+		"ABV_min": 5.8,
+		"ABV_max": 6.3,
+		"IBU_min": 18,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "Helles Bock",
+		"Sub-style": "",
+		"Family": "4. PALE MALTY EUROPEAN LAGER",
+		"OG_min": 1.064,
+		"OG_max": 1.072,
+		"FG_min": 1.011,
+		"FG_max": 1.018,
+		"ABV_min": 6.3,
+		"ABV_max": 7.4,
+		"IBU_min": 23,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "German Leichtbier",
+		"Sub-style": "",
+		"Family": "5. PALE BITTER EUROPEAN BEER",
+		"OG_min": 1.026,
+		"OG_max": 1.034,
+		"FG_min": 1.006,
+		"FG_max": 1.01,
+		"ABV_min": 2.4,
+		"ABV_max": 3.6,
+		"IBU_min": 15,
+		"IBU_max": 28
+	  },
+	  {
+		"Style": "KÃ¶lsch",
+		"Sub-style": "",
+		"Family": "5. PALE BITTER EUROPEAN BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.05,
+		"FG_min": 1.007,
+		"FG_max": 1.011,
+		"ABV_min": 3.5,
+		"ABV_max": 4.4,
+		"IBU_min": 18,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "German Helles Exportbier",
+		"Sub-style": "",
+		"Family": "5. PALE BITTER EUROPEAN BEER",
+		"OG_min": 1.048,
+		"OG_max": 1.056,
+		"FG_min": 1.01,
+		"FG_max": 1.015,
+		"ABV_min": 4.8,
+		"ABV_max": 6,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "German Pils",
+		"Sub-style": "",
+		"Family": "5. PALE BITTER EUROPEAN BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.05,
+		"FG_min": 1.008,
+		"FG_max": 1.013,
+		"ABV_min": 4.4,
+		"ABV_max": 5.2,
+		"IBU_min": 22,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "MÃ¤rzen",
+		"Sub-style": "",
+		"Family": "6. AMBER MALTY EUROPEAN LAGER",
+		"OG_min": 1.054,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 5.8,
+		"ABV_max": 6.3,
+		"IBU_min": 18,
+		"IBU_max": 24
+	  },
+	  {
+		"Style": "Rauchbier",
+		"Sub-style": "",
+		"Family": "6. AMBER MALTY EUROPEAN LAGER",
+		"OG_min": 1.05,
+		"OG_max": 1.057,
+		"FG_min": 1.012,
+		"FG_max": 1.016,
+		"ABV_min": 4.8,
+		"ABV_max": "",
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Dunkles Bock",
+		"Sub-style": "",
+		"Family": "6. AMBER MALTY EUROPEAN LAGER",
+		"OG_min": 1.064,
+		"OG_max": 1.072,
+		"FG_min": 1.013,
+		"FG_max": 1.019,
+		"ABV_min": 6.3,
+		"ABV_max": 7.2,
+		"IBU_min": 20,
+		"IBU_max": 27
+	  },
+	  {
+		"Style": "Vienna Lager",
+		"Sub-style": "",
+		"Family": "7. AMBER BITTER EUROPEAN BEER",
+		"OG_min": 1.048,
+		"OG_max": 1.055,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 4.7,
+		"ABV_max": 5.5,
+		"IBU_min": 18,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Altbier",
+		"Sub-style": "",
+		"Family": "7. AMBER BITTER EUROPEAN BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.052,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 4.3,
+		"ABV_max": 5.5,
+		"IBU_min": 25,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "Kellerbier",
+		"Sub-style": "",
+		"Family": "7. AMBER BITTER EUROPEAN BEER",
+		"OG_min": "1.0451.048",
+		"OG_max": "1.0511.054",
+		"FG_min": "1.0081.012",
+		"FG_max": "1.0121.016",
+		"ABV_min": "4.74.8",
+		"ABV_max": "5.45.4",
+		"IBU_min": 2025,
+		"IBU_max": 3540
+	  },
+	  {
+		"Style": "Munich Dunkel",
+		"Sub-style": "",
+		"Family": "8. DARK EUROPEAN LAGER",
+		"OG_min": 1.048,
+		"OG_max": 1.056,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 4.5,
+		"ABV_max": 5.6,
+		"IBU_min": 18,
+		"IBU_max": 28
+	  },
+	  {
+		"Style": "Schwarzbier",
+		"Sub-style": "",
+		"Family": "8. DARK EUROPEAN LAGER",
+		"OG_min": 1.046,
+		"OG_max": 1.052,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 4.4,
+		"ABV_max": 5.4,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Doppelbock",
+		"Sub-style": "",
+		"Family": "9. STRONG EUROPEAN BEER",
+		"OG_min": 1.072,
+		"OG_max": 1.112,
+		"FG_min": 1.016,
+		"FG_max": 1.024,
+		"ABV_min": 7,
+		"ABV_max": 0,
+		"IBU_min": 16,
+		"IBU_max": 26
+	  },
+	  {
+		"Style": "Eisbock",
+		"Sub-style": "",
+		"Family": "9. STRONG EUROPEAN BEER",
+		"OG_min": 1.078,
+		"OG_max": 1.12,
+		"FG_min": 1.02,
+		"FG_max": 1.035,
+		"ABV_min": 9,
+		"ABV_max": 4,
+		"IBU_min": 25,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Baltic Porter",
+		"Sub-style": "",
+		"Family": "9. STRONG EUROPEAN BEER",
+		"OG_min": 1.06,
+		"OG_max": 1.09,
+		"FG_min": 1.016,
+		"FG_max": 1.024,
+		"ABV_min": 6.5,
+		"ABV_max": 9.5,
+		"IBU_min": 20,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Weissbier",
+		"Sub-style": "",
+		"Family": "10. GERMAN WHEAT BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.052,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 4.3,
+		"ABV_max": 5.6,
+		"IBU_min": 8,
+		"IBU_max": 15
+	  },
+	  {
+		"Style": "Dunkles Weissbier",
+		"Sub-style": "",
+		"Family": "10. GERMAN WHEAT BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.056,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 4.3,
+		"ABV_max": 5.6,
+		"IBU_min": 10,
+		"IBU_max": 18
+	  },
+	  {
+		"Style": "Weizenbock",
+		"Sub-style": "",
+		"Family": "10. GERMAN WHEAT BEER",
+		"OG_min": 1.064,
+		"OG_max": 1.09,
+		"FG_min": 1.015,
+		"FG_max": 1.022,
+		"ABV_min": 6.5,
+		"ABV_max": 9,
+		"IBU_min": 15,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Ordinary Bitter",
+		"Sub-style": "",
+		"Family": "11. BRITISH BITTER",
+		"OG_min": 1.03,
+		"OG_max": 1.039,
+		"FG_min": 1.007,
+		"FG_max": 1.011,
+		"ABV_min": 3.2,
+		"ABV_max": 3.8,
+		"IBU_min": 25,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Best Bitter",
+		"Sub-style": "",
+		"Family": "11. BRITISH BITTER",
+		"OG_min": 1.04,
+		"OG_max": 1.048,
+		"FG_min": 1.008,
+		"FG_max": 1.012,
+		"ABV_min": 3.8,
+		"ABV_max": 4.6,
+		"IBU_min": 25,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Strong Bitter",
+		"Sub-style": "",
+		"Family": "11. BRITISH BITTER",
+		"OG_min": 1.048,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 4.6,
+		"ABV_max": 6.2,
+		"IBU_min": 30,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "British Golden Ale",
+		"Sub-style": "",
+		"Family": "12. PALE COMMONWEALTH BEER",
+		"OG_min": 1.038,
+		"OG_max": 1.053,
+		"FG_min": 1.006,
+		"FG_max": 1.012,
+		"ABV_min": 3.8,
+		"ABV_max": 5,
+		"IBU_min": 20,
+		"IBU_max": 45
+	  },
+	  {
+		"Style": "Australian Sparkling Ale",
+		"Sub-style": "",
+		"Family": "12. PALE COMMONWEALTH BEER",
+		"OG_min": 1.038,
+		"OG_max": 1.05,
+		"FG_min": 1.004,
+		"FG_max": 1.006,
+		"ABV_min": 4.5,
+		"ABV_max": 6,
+		"IBU_min": 20,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "English IPA",
+		"Sub-style": "",
+		"Family": "12. PALE COMMONWEALTH BEER",
+		"OG_min": 1.05,
+		"OG_max": 1.075,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 5,
+		"ABV_max": 7.5,
+		"IBU_min": 40,
+		"IBU_max": 60
+	  },
+	  {
+		"Style": "Dark Mild",
+		"Sub-style": "",
+		"Family": "13. BROWN BRITISH BEER",
+		"OG_min": 1.03,
+		"OG_max": 1.038,
+		"FG_min": 1.008,
+		"FG_max": 1.013,
+		"ABV_min": 3,
+		"ABV_max": 3.8,
+		"IBU_min": 10,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "British Brown Ale",
+		"Sub-style": "",
+		"Family": "13. BROWN BRITISH BEER",
+		"OG_min": 1.04,
+		"OG_max": 1.052,
+		"FG_min": 1.008,
+		"FG_max": 1.013,
+		"ABV_min": 4.2,
+		"ABV_max": 5.4,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "English Porter",
+		"Sub-style": "",
+		"Family": "13. BROWN BRITISH BEER",
+		"OG_min": 1.04,
+		"OG_max": 1.052,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 4,
+		"ABV_max": 5.4,
+		"IBU_min": 18,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Scottish Light",
+		"Sub-style": "",
+		"Family": "14. SCOTTISH ALE",
+		"OG_min": 1.03,
+		"OG_max": 1.035,
+		"FG_min": 1.01,
+		"FG_max": 1.013,
+		"ABV_min": 2.5,
+		"ABV_max": 3.2,
+		"IBU_min": 10,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Scottish Heavy",
+		"Sub-style": "",
+		"Family": "14. SCOTTISH ALE",
+		"OG_min": 1.035,
+		"OG_max": 1.04,
+		"FG_min": 1.01,
+		"FG_max": 1.015,
+		"ABV_min": 3.2,
+		"ABV_max": 3.9,
+		"IBU_min": 10,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Scottish Export",
+		"Sub-style": "",
+		"Family": "14. SCOTTISH ALE",
+		"OG_min": 1.04,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 3.9,
+		"ABV_max": 6,
+		"IBU_min": 15,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Irish Red Ale",
+		"Sub-style": "",
+		"Family": "15. IRISH BEER",
+		"OG_min": 1.036,
+		"OG_max": 1.046,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 3.8,
+		"ABV_max": 5,
+		"IBU_min": 18,
+		"IBU_max": 28
+	  },
+	  {
+		"Style": "Irish Stout",
+		"Sub-style": "",
+		"Family": "15. IRISH BEER",
+		"OG_min": 1.036,
+		"OG_max": 1.044,
+		"FG_min": 1.007,
+		"FG_max": 1.011,
+		"ABV_min": 4,
+		"ABV_max": 4.5,
+		"IBU_min": 25,
+		"IBU_max": 45
+	  },
+	  {
+		"Style": "Irish Extra Stout",
+		"Sub-style": "",
+		"Family": "15. IRISH BEER",
+		"OG_min": 1.052,
+		"OG_max": 1.062,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 5.5,
+		"ABV_max": 6.5,
+		"IBU_min": 35,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "Sweet Stout",
+		"Sub-style": "",
+		"Family": "16. DARK BRITISH BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.06,
+		"FG_min": 1.012,
+		"FG_max": 1.024,
+		"ABV_min": 4,
+		"ABV_max": 6,
+		"IBU_min": 20,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Oatmeal Stout",
+		"Sub-style": "",
+		"Family": "16. DARK BRITISH BEER",
+		"OG_min": 1.045,
+		"OG_max": 1.065,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 4.2,
+		"ABV_max": 5.9,
+		"IBU_min": 25,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Tropical Stout",
+		"Sub-style": "",
+		"Family": "16. DARK BRITISH BEER",
+		"OG_min": 1.056,
+		"OG_max": 1.075,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 5.5,
+		"ABV_max": 8,
+		"IBU_min": 30,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "Foreign Extra Stout",
+		"Sub-style": "",
+		"Family": "16. DARK BRITISH BEER",
+		"OG_min": 1.056,
+		"OG_max": 1.075,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 6.3,
+		"ABV_max": 8,
+		"IBU_min": 50,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "British Strong Ale",
+		"Sub-style": "",
+		"Family": "17. STRONG BRITISH ALE",
+		"OG_min": 1.055,
+		"OG_max": 1.08,
+		"FG_min": 1.015,
+		"FG_max": 1.022,
+		"ABV_min": 5.5,
+		"ABV_max": 8,
+		"IBU_min": 30,
+		"IBU_max": 60
+	  },
+	  {
+		"Style": "Old Ale",
+		"Sub-style": "",
+		"Family": "17. STRONG BRITISH ALE",
+		"OG_min": 1.055,
+		"OG_max": 1.088,
+		"FG_min": 1.015,
+		"FG_max": 1.022,
+		"ABV_min": 5.5,
+		"ABV_max": 9,
+		"IBU_min": 30,
+		"IBU_max": 60
+	  },
+	  {
+		"Style": "Wee Heavy",
+		"Sub-style": "",
+		"Family": "17. STRONG BRITISH ALE",
+		"OG_min": 1.07,
+		"OG_max": 1.13,
+		"FG_min": 1.018,
+		"FG_max": 1.04,
+		"ABV_min": 6.5,
+		"ABV_max": 0,
+		"IBU_min": 17,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "English Barleywine",
+		"Sub-style": "",
+		"Family": "17. STRONG BRITISH ALE",
+		"OG_min": 1.08,
+		"OG_max": 1.12,
+		"FG_min": 1.018,
+		"FG_max": 1.03,
+		"ABV_min": 8,
+		"ABV_max": 2,
+		"IBU_min": 35,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "Blonde Ale",
+		"Sub-style": "",
+		"Family": "18. PALE AMERICAN ALE",
+		"OG_min": 1.038,
+		"OG_max": 1.054,
+		"FG_min": 1.008,
+		"FG_max": 1.013,
+		"ABV_min": 3.8,
+		"ABV_max": 5.5,
+		"IBU_min": 15,
+		"IBU_max": 28
+	  },
+	  {
+		"Style": "American Pale Ale",
+		"Sub-style": "",
+		"Family": "18. PALE AMERICAN ALE",
+		"OG_min": 1.045,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.015,
+		"ABV_min": 4.5,
+		"ABV_max": 6.2,
+		"IBU_min": 30,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "American Amber Ale",
+		"Sub-style": "",
+		"Family": "19. AMBER AND BROWN AMERICAN BEER",
+		"OG_min": 1.045,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.015,
+		"ABV_min": 4.5,
+		"ABV_max": 6.2,
+		"IBU_min": 25,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "California Common",
+		"Sub-style": "",
+		"Family": "19. AMBER AND BROWN AMERICAN BEER",
+		"OG_min": 1.048,
+		"OG_max": 1.054,
+		"FG_min": 1.011,
+		"FG_max": 1.014,
+		"ABV_min": 4.5,
+		"ABV_max": 5.5,
+		"IBU_min": 30,
+		"IBU_max": 45
+	  },
+	  {
+		"Style": "American Brown Ale",
+		"Sub-style": "",
+		"Family": "19. AMBER AND BROWN AMERICAN BEER",
+		"OG_min": 1.045,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 4.3,
+		"ABV_max": 6.2,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "American Porter",
+		"Sub-style": "",
+		"Family": "20. AMERICAN PORTER AND STOUT",
+		"OG_min": 1.05,
+		"OG_max": 1.07,
+		"FG_min": 1.012,
+		"FG_max": 1.018,
+		"ABV_min": 4.8,
+		"ABV_max": 6.5,
+		"IBU_min": 25,
+		"IBU_max": 50
+	  },
+	  {
+		"Style": "American Stout",
+		"Sub-style": "",
+		"Family": "20. AMERICAN PORTER AND STOUT",
+		"OG_min": 1.05,
+		"OG_max": 1.075,
+		"FG_min": 1.01,
+		"FG_max": 1.022,
+		"ABV_min": 5,
+		"ABV_max": 7,
+		"IBU_min": 35,
+		"IBU_max": 75
+	  },
+	  {
+		"Style": "Imperial Stout",
+		"Sub-style": "",
+		"Family": "20. AMERICAN PORTER AND STOUT",
+		"OG_min": 1.075,
+		"OG_max": 1.115,
+		"FG_min": 1.018,
+		"FG_max": 1.03,
+		"ABV_min": 8,
+		"ABV_max": 2,
+		"IBU_min": 50,
+		"IBU_max": 90
+	  },
+	  {
+		"Style": "American IPA",
+		"Sub-style": "",
+		"Family": "21. IPA",
+		"OG_min": 1.056,
+		"OG_max": 1.07,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 5.5,
+		"ABV_max": 7.5,
+		"IBU_min": 40,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "",
+		"Family": "21. IPA",
+		"OG_min": 3,
+		"OG_max": 5,
+		"FG_min": 5,
+		"FG_max": 7.5,
+		"ABV_min": 7.5,
+		"ABV_max": 0,
+		"IBU_min": 5,
+		"IBU_max": 0
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "Belgian IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.058,
+		"OG_max": 1.08,
+		"FG_min": 100,
+		"FG_max": 1.008,
+		"ABV_min": 1.016,
+		"ABV_max": 6.2,
+		"IBU_min": 50,
+		"IBU_max": 100
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "Black IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.05,
+		"OG_max": 1.085,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 5.5,
+		"ABV_max": 9,
+		"IBU_min": 50,
+		"IBU_max": 90
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "Brown IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.056,
+		"OG_max": 1.07,
+		"FG_min": 1.008,
+		"FG_max": 1.016,
+		"ABV_min": 5.5,
+		"ABV_max": 7.5,
+		"IBU_min": 40,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "Red IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.056,
+		"OG_max": 1.07,
+		"FG_min": 1.008,
+		"FG_max": 1.016,
+		"ABV_min": 5.5,
+		"ABV_max": 7.5,
+		"IBU_min": 40,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "Rye IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.056,
+		"OG_max": 1.075,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 5.5,
+		"ABV_max": 8,
+		"IBU_min": 50,
+		"IBU_max": 75
+	  },
+	  {
+		"Style": "Specialty IPA",
+		"Sub-style": "White IPA",
+		"Family": "21. IPA",
+		"OG_min": 1.056,
+		"OG_max": 1.065,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 5.5,
+		"ABV_max": 7,
+		"IBU_min": 40,
+		"IBU_max": 70
+	  },
+	  {
+		"Style": "Double IPA",
+		"Sub-style": "",
+		"Family": "22. STRONG AMERICAN ALE",
+		"OG_min": 1.065,
+		"OG_max": 1.085,
+		"FG_min": 120,
+		"FG_max": 1.008,
+		"ABV_min": 1.018,
+		"ABV_max": 7.5,
+		"IBU_min": 60,
+		"IBU_max": 120
+	  },
+	  {
+		"Style": "American Strong Ale",
+		"Sub-style": "",
+		"Family": "22. STRONG AMERICAN ALE",
+		"OG_min": 1.062,
+		"OG_max": 1.09,
+		"FG_min": 100,
+		"FG_max": 1.014,
+		"ABV_min": 1.024,
+		"ABV_max": 6.3,
+		"IBU_min": 50,
+		"IBU_max": 100
+	  },
+	  {
+		"Style": "American Barleywine",
+		"Sub-style": "",
+		"Family": "22. STRONG AMERICAN ALE",
+		"OG_min": 1.08,
+		"OG_max": 1.12,
+		"FG_min": 100,
+		"FG_max": 1.016,
+		"ABV_min": 1.03,
+		"ABV_max": 8,
+		"IBU_min": 50,
+		"IBU_max": 100
+	  },
+	  {
+		"Style": "Wheatwine",
+		"Sub-style": "",
+		"Family": "22. STRONG AMERICAN ALE",
+		"OG_min": 1.08,
+		"OG_max": 1.12,
+		"FG_min": 1.016,
+		"FG_max": 1.03,
+		"ABV_min": 8,
+		"ABV_max": 2,
+		"IBU_min": 30,
+		"IBU_max": 60
+	  },
+	  {
+		"Style": "Berliner Weisse",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.028,
+		"OG_max": 1.032,
+		"FG_min": 1.003,
+		"FG_max": 1.006,
+		"ABV_min": 2.8,
+		"ABV_max": 3.8,
+		"IBU_min": 3,
+		"IBU_max": 8
+	  },
+	  {
+		"Style": "Flanders Red Ale",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.048,
+		"OG_max": 1.057,
+		"FG_min": 1.002,
+		"FG_max": 1.012,
+		"ABV_min": 4.6,
+		"ABV_max": 6.5,
+		"IBU_min": 10,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "Oud Bruin",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.04,
+		"OG_max": 1.074,
+		"FG_min": 1.008,
+		"FG_max": 1.012,
+		"ABV_min": 4,
+		"ABV_max": 8,
+		"IBU_min": 20,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "Lambic",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.04,
+		"OG_max": 1.054,
+		"FG_min": 1.001,
+		"FG_max": 1.01,
+		"ABV_min": 5,
+		"ABV_max": 6.5,
+		"IBU_min": 0,
+		"IBU_max": 10
+	  },
+	  {
+		"Style": "Gueuze",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.04,
+		"OG_max": 1.06,
+		"FG_min": 1,
+		"FG_max": 1.006,
+		"ABV_min": 5,
+		"ABV_max": 8,
+		"IBU_min": 0,
+		"IBU_max": 10
+	  },
+	  {
+		"Style": "Fruit Lambic",
+		"Sub-style": "",
+		"Family": "23. EUROPEAN SOUR ALE",
+		"OG_min": 1.04,
+		"OG_max": 1.06,
+		"FG_min": 1,
+		"FG_max": 1.01,
+		"ABV_min": 5,
+		"ABV_max": 7,
+		"IBU_min": 0,
+		"IBU_max": 10
+	  },
+	  {
+		"Style": "Witbier",
+		"Sub-style": "",
+		"Family": "24. BELGIAN ALE",
+		"OG_min": 1.044,
+		"OG_max": 1.052,
+		"FG_min": 1.008,
+		"FG_max": 1.012,
+		"ABV_min": 4.5,
+		"ABV_max": 5.5,
+		"IBU_min": 8,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Belgian Pale Ale",
+		"Sub-style": "",
+		"Family": "24. BELGIAN ALE",
+		"OG_min": 1.048,
+		"OG_max": 1.054,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 4.8,
+		"ABV_max": 5.5,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "BiÃ¨re de Garde",
+		"Sub-style": "",
+		"Family": "24. BELGIAN ALE",
+		"OG_min": 1.06,
+		"OG_max": 1.08,
+		"FG_min": 1.008,
+		"FG_max": 1.016,
+		"ABV_min": 6,
+		"ABV_max": 8.5,
+		"IBU_min": 18,
+		"IBU_max": 28
+	  },
+	  {
+		"Style": "Belgian Blond Ale",
+		"Sub-style": "",
+		"Family": "25. STRONG BELGIAN ALE",
+		"OG_min": 1.062,
+		"OG_max": 1.075,
+		"FG_min": 1.008,
+		"FG_max": 1.018,
+		"ABV_min": 6,
+		"ABV_max": 7.5,
+		"IBU_min": 15,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Saison",
+		"Sub-style": "",
+		"Family": "25. STRONG BELGIAN ALE",
+		"OG_min": 1.048,
+		"OG_max": 1.065,
+		"FG_min": 1.002,
+		"FG_max": 1.008,
+		"ABV_min": 3.5,
+		"ABV_max": 5,
+		"IBU_min": 20,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Belgian Golden Strong Ale",
+		"Sub-style": "",
+		"Family": "25. STRONG BELGIAN ALE",
+		"OG_min": 1.07,
+		"OG_max": 1.095,
+		"FG_min": 1.005,
+		"FG_max": 1.016,
+		"ABV_min": 7.5,
+		"ABV_max": 0.5,
+		"IBU_min": 22,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Trappist Single",
+		"Sub-style": "",
+		"Family": "26. TRAPPIST ALE",
+		"OG_min": 1.044,
+		"OG_max": 1.054,
+		"FG_min": 1.004,
+		"FG_max": 1.01,
+		"ABV_min": 4.8,
+		"ABV_max": 6,
+		"IBU_min": 25,
+		"IBU_max": 45
+	  },
+	  {
+		"Style": "Belgian Dubbel",
+		"Sub-style": "",
+		"Family": "26. TRAPPIST ALE",
+		"OG_min": 1.062,
+		"OG_max": 1.075,
+		"FG_min": 1.008,
+		"FG_max": 1.018,
+		"ABV_min": 6,
+		"ABV_max": 7.6,
+		"IBU_min": 15,
+		"IBU_max": 25
+	  },
+	  {
+		"Style": "Belgian Tripel",
+		"Sub-style": "",
+		"Family": "26. TRAPPIST ALE",
+		"OG_min": 1.075,
+		"OG_max": 1.085,
+		"FG_min": 1.008,
+		"FG_max": 1.014,
+		"ABV_min": 4.5,
+		"ABV_max": 7.5,
+		"IBU_min": 20,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Belgian Dark Strong Ale",
+		"Sub-style": "",
+		"Family": "26. TRAPPIST ALE",
+		"OG_min": 1.075,
+		"OG_max": 1.11,
+		"FG_min": 1.01,
+		"FG_max": 1.024,
+		"ABV_min": 8,
+		"ABV_max": 2,
+		"IBU_min": 20,
+		"IBU_max": 35
+	  },
+	  {
+		"Style": "Gose",
+		"Sub-style": "Gose",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.036,
+		"OG_max": 1.056,
+		"FG_min": 1.006,
+		"FG_max": 1.01,
+		"ABV_min": 4.2,
+		"ABV_max": 4.8,
+		"IBU_min": 5,
+		"IBU_max": 12
+	  },
+	  {
+		"Style": "Kentucky Common",
+		"Sub-style": "Kentucky Common",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.055,
+		"FG_min": 1.01,
+		"FG_max": 1.018,
+		"ABV_min": 4,
+		"ABV_max": 5.5,
+		"IBU_min": 15,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Lichtenhainer",
+		"Sub-style": "Lichtenhainer",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.032,
+		"OG_max": 1.04,
+		"FG_min": 1.004,
+		"FG_max": 1.008,
+		"ABV_min": 3.5,
+		"ABV_max": 4.7,
+		"IBU_min": 5,
+		"IBU_max": 12
+	  },
+	  {
+		"Style": "London Brown Ale",
+		"Sub-style": "London Brown Ale",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.033,
+		"OG_max": 1.038,
+		"FG_min": 1.012,
+		"FG_max": 1.015,
+		"ABV_min": 2.8,
+		"ABV_max": 3.6,
+		"IBU_min": 15,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Piwo Grodziskie",
+		"Sub-style": "Piwo Grodziskie",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.028,
+		"OG_max": 1.032,
+		"FG_min": 2015,
+		"FG_max": 1.006,
+		"ABV_min": 1.012,
+		"ABV_max": 2.5,
+		"IBU_min": 2015,
+		"IBU_max": 57
+	  },
+	  {
+		"Style": "Pre-Prohibition Lager",
+		"Sub-style": "Pre-Prohibition Lager",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.044,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.015,
+		"ABV_min": 4.5,
+		"ABV_max": 6,
+		"IBU_min": 25,
+		"IBU_max": 40
+	  },
+	  {
+		"Style": "Pre-Prohibition Porter",
+		"Sub-style": "Pre-Prohibition Porter",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.046,
+		"OG_max": 1.06,
+		"FG_min": 1.01,
+		"FG_max": 1.016,
+		"ABV_min": 4.5,
+		"ABV_max": 6,
+		"IBU_min": 20,
+		"IBU_max": 30
+	  },
+	  {
+		"Style": "Roggenbier",
+		"Sub-style": "Roggenbier",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.046,
+		"OG_max": 1.056,
+		"FG_min": 1.01,
+		"FG_max": 1.014,
+		"ABV_min": 4.5,
+		"ABV_max": 6,
+		"IBU_min": 10,
+		"IBU_max": 20
+	  },
+	  {
+		"Style": "Sahti",
+		"Sub-style": "Sahti",
+		"Family": "27. HISTORICAL BEER",
+		"OG_min": 1.076,
+		"OG_max": 1.12,
+		"FG_min": 1.016,
+		"FG_max": 1.02,
+		"ABV_min": 7,
+		"ABV_max": 1,
+		"IBU_min": 7,
+		"IBU_max": 15
+	  },
+	  {
+		"Style": "Brett Beer",
+		"Sub-style": "",
+		"Family": "28. AMERICAN WILD ALE",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Mixed-Fermentation Sour Beer",
+		"Sub-style": "",
+		"Family": "28. AMERICAN WILD ALE",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Wild Specialty Beer",
+		"Sub-style": "",
+		"Family": "28. AMERICAN WILD ALE",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Fruit Beer",
+		"Sub-style": "",
+		"Family": "29. FRUIT BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Fruit and Spice Beer",
+		"Sub-style": "",
+		"Family": "29. FRUIT BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Specialty Fruit Beer",
+		"Sub-style": "",
+		"Family": "29. FRUIT BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Spice, Herb, or Vegetable Beer",
+		"Sub-style": "",
+		"Family": "30. SPICED BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Autumn Seasonal Beer",
+		"Sub-style": "",
+		"Family": "30. SPICED BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Winter Seasonal Beer",
+		"Sub-style": "",
+		"Family": "30. SPICED BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Alternative Grain Beer",
+		"Sub-style": "",
+		"Family": "31. ALTERNATIVE FERMENTABLES BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Alternative Sugar Beer",
+		"Sub-style": "",
+		"Family": "31. ALTERNATIVE FERMENTABLES BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Classic Style Smoked Beer",
+		"Sub-style": "",
+		"Family": "32. SMOKED BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Specialty Smoked Beer",
+		"Sub-style": "",
+		"Family": "32. SMOKED BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Wood-Aged Beer",
+		"Sub-style": "",
+		"Family": "33. WOOD BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Specialty Wood-Aged Beer",
+		"Sub-style": "",
+		"Family": "33. WOOD BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Clone Beer",
+		"Sub-style": "",
+		"Family": "34. SPECIALTY BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Mixed-Style Beer",
+		"Sub-style": "",
+		"Family": "34. SPECIALTY BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  },
+	  {
+		"Style": "Experimental Beer",
+		"Sub-style": "",
+		"Family": "34. SPECIALTY BEER",
+		"OG_min": "",
+		"OG_max": "",
+		"FG_min": "",
+		"FG_max": "",
+		"ABV_min": "",
+		"ABV_max": "",
+		"IBU_min": "",
+		"IBU_max": ""
+	  }
+	],
+"links": [
+	  {
+		"source": "1. STANDARD AMERICAN BEER",
+		"target": "American Light Lager"
+	  },
+	  {
+		"source": "1. STANDARD AMERICAN BEER",
+		"target": "American Lager"
+	  },
+	  {
+		"source": "1. STANDARD AMERICAN BEER",
+		"target": "Cream Ale"
+	  },
+	  {
+		"source": "1. STANDARD AMERICAN BEER",
+		"target": "American Wheat Beer"
+	  },
+	  {
+		"source": "2. INTERNATIONAL LAGER",
+		"target": "International Pale Lager"
+	  },
+	  {
+		"source": "2. INTERNATIONAL LAGER",
+		"target": "International Amber Lager"
+	  },
+	  {
+		"source": "2. INTERNATIONAL LAGER",
+		"target": "International Dark Lager"
+	  },
+	  {
+		"source": "3. CZECH LAGER",
+		"target": "Czech Pale Lager"
+	  },
+	  {
+		"source": "3. CZECH LAGER",
+		"target": "Czech Premium Pale Lager"
+	  },
+	  {
+		"source": "3. CZECH LAGER",
+		"target": "Czech Amber Lager"
+	  },
+	  {
+		"source": "3. CZECH LAGER",
+		"target": "Czech Dark Lager"
+	  },
+	  {
+		"source": "4. PALE MALTY EUROPEAN LAGER",
+		"target": "Munich Helles"
+	  },
+	  {
+		"source": "4. PALE MALTY EUROPEAN LAGER",
+		"target": "Festbier"
+	  },
+	  {
+		"source": "4. PALE MALTY EUROPEAN LAGER",
+		"target": "Helles Bock"
+	  },
+	  {
+		"source": "5. PALE BITTER EUROPEAN BEER",
+		"target": "German Leichtbier"
+	  },
+	  {
+		"source": "5. PALE BITTER EUROPEAN BEER",
+		"target": "KÃƒÂ¶lsch"
+	  },
+	  {
+		"source": "5. PALE BITTER EUROPEAN BEER",
+		"target": "German Helles Exportbier"
+	  },
+	  {
+		"source": "5. PALE BITTER EUROPEAN BEER",
+		"target": "German Pils"
+	  },
+	  {
+		"source": "6. AMBER MALTY EUROPEAN LAGER",
+		"target": "MÃƒÂ¤rzen"
+	  },
+	  {
+		"source": "6. AMBER MALTY EUROPEAN LAGER",
+		"target": "Rauchbier"
+	  },
+	  {
+		"source": "6. AMBER MALTY EUROPEAN LAGER",
+		"target": "Dunkles Bock"
+	  },
+	  {
+		"source": "7. AMBER BITTER EUROPEAN BEER",
+		"target": "Vienna Lager"
+	  },
+	  {
+		"source": "7. AMBER BITTER EUROPEAN BEER",
+		"target": "Altbier"
+	  },
+	  {
+		"source": "7. AMBER BITTER EUROPEAN BEER",
+		"target": "Kellerbier"
+	  },
+	  {
+		"source": "8. DARK EUROPEAN LAGER",
+		"target": "Munich Dunkel"
+	  },
+	  {
+		"source": "8. DARK EUROPEAN LAGER",
+		"target": "Schwarzbier"
+	  },
+	  {
+		"source": "9. STRONG EUROPEAN BEER",
+		"target": "Doppelbock"
+	  },
+	  {
+		"source": "9. STRONG EUROPEAN BEER",
+		"target": "Eisbock"
+	  },
+	  {
+		"source": "9. STRONG EUROPEAN BEER",
+		"target": "Baltic Porter"
+	  },
+	  {
+		"source": "10. GERMAN WHEAT BEER",
+		"target": "Weissbier"
+	  },
+	  {
+		"source": "10. GERMAN WHEAT BEER",
+		"target": "Dunkles Weissbier"
+	  },
+	  {
+		"source": "10. GERMAN WHEAT BEER",
+		"target": "Weizenbock"
+	  },
+	  {
+		"source": "11. BRITISH BITTER",
+		"target": "Ordinary Bitter"
+	  },
+	  {
+		"source": "11. BRITISH BITTER",
+		"target": "Best Bitter"
+	  },
+	  {
+		"source": "11. BRITISH BITTER",
+		"target": "Strong Bitter"
+	  },
+	  {
+		"source": "12. PALE COMMONWEALTH BEER",
+		"target": "British Golden Ale"
+	  },
+	  {
+		"source": "12. PALE COMMONWEALTH BEER",
+		"target": "Australian Sparkling Ale"
+	  },
+	  {
+		"source": "12. PALE COMMONWEALTH BEER",
+		"target": "English IPA"
+	  },
+	  {
+		"source": "13. BROWN BRITISH BEER",
+		"target": "Dark Mild"
+	  },
+	  {
+		"source": "13. BROWN BRITISH BEER",
+		"target": "British Brown Ale"
+	  },
+	  {
+		"source": "13. BROWN BRITISH BEER",
+		"target": "English Porter"
+	  },
+	  {
+		"source": "14. SCOTTISH ALE",
+		"target": "Scottish Light"
+	  },
+	  {
+		"source": "14. SCOTTISH ALE",
+		"target": "Scottish Heavy"
+	  },
+	  {
+		"source": "14. SCOTTISH ALE",
+		"target": "Scottish Export"
+	  },
+	  {
+		"source": "15. IRISH BEER",
+		"target": "Irish Red Ale"
+	  },
+	  {
+		"source": "15. IRISH BEER",
+		"target": "Irish Stout"
+	  },
+	  {
+		"source": "15. IRISH BEER",
+		"target": "Irish Extra Stout"
+	  },
+	  {
+		"source": "16. DARK BRITISH BEER",
+		"target": "Sweet Stout"
+	  },
+	  {
+		"source": "16. DARK BRITISH BEER",
+		"target": "Oatmeal Stout"
+	  },
+	  {
+		"source": "16. DARK BRITISH BEER",
+		"target": "Tropical Stout"
+	  },
+	  {
+		"source": "16. DARK BRITISH BEER",
+		"target": "Foreign Extra Stout"
+	  },
+	  {
+		"source": "17. STRONG BRITISH ALE",
+		"target": "British Strong Ale"
+	  },
+	  {
+		"source": "17. STRONG BRITISH ALE",
+		"target": "Old Ale"
+	  },
+	  {
+		"source": "17. STRONG BRITISH ALE",
+		"target": "Wee Heavy"
+	  },
+	  {
+		"source": "17. STRONG BRITISH ALE",
+		"target": "English Barleywine"
+	  },
+	  {
+		"source": "18. PALE AMERICAN ALE",
+		"target": "Blonde Ale"
+	  },
+	  {
+		"source": "18. PALE AMERICAN ALE",
+		"target": "American Pale Ale"
+	  },
+	  {
+		"source": "19. AMBER AND BROWN AMERICAN BEER",
+		"target": "American Amber Ale"
+	  },
+	  {
+		"source": "19. AMBER AND BROWN AMERICAN BEER",
+		"target": "California Common"
+	  },
+	  {
+		"source": "19. AMBER AND BROWN AMERICAN BEER",
+		"target": "American Brown Ale"
+	  },
+	  {
+		"source": "20. AMERICAN PORTER AND STOUT",
+		"target": "American Porter"
+	  },
+	  {
+		"source": "20. AMERICAN PORTER AND STOUT",
+		"target": "American Stout"
+	  },
+	  {
+		"source": "20. AMERICAN PORTER AND STOUT",
+		"target": "Imperial Stout"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "American IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "21. IPA",
+		"target": "Specialty IPA"
+	  },
+	  {
+		"source": "22. STRONG AMERICAN ALE",
+		"target": "Double IPA"
+	  },
+	  {
+		"source": "22. STRONG AMERICAN ALE",
+		"target": "American Strong Ale"
+	  },
+	  {
+		"source": "22. STRONG AMERICAN ALE",
+		"target": "American Barleywine"
+	  },
+	  {
+		"source": "22. STRONG AMERICAN ALE",
+		"target": "Wheatwine"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Berliner Weisse"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Flanders Red Ale"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Oud Bruin"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Lambic"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Gueuze"
+	  },
+	  {
+		"source": "23. EUROPEAN SOUR ALE",
+		"target": "Fruit Lambic"
+	  },
+	  {
+		"source": "24. BELGIAN ALE",
+		"target": "Witbier"
+	  },
+	  {
+		"source": "24. BELGIAN ALE",
+		"target": "Belgian Pale Ale"
+	  },
+	  {
+		"source": "24. BELGIAN ALE",
+		"target": "BiÃƒÂ¨re de Garde"
+	  },
+	  {
+		"source": "25. STRONG BELGIAN ALE",
+		"target": "Belgian Blond Ale"
+	  },
+	  {
+		"source": "25. STRONG BELGIAN ALE",
+		"target": "Saison"
+	  },
+	  {
+		"source": "25. STRONG BELGIAN ALE",
+		"target": "Belgian Golden Strong Ale"
+	  },
+	  {
+		"source": "26. TRAPPIST ALE",
+		"target": "Trappist Single"
+	  },
+	  {
+		"source": "26. TRAPPIST ALE",
+		"target": "Belgian Dubbel"
+	  },
+	  {
+		"source": "26. TRAPPIST ALE",
+		"target": "Belgian Tripel"
+	  },
+	  {
+		"source": "26. TRAPPIST ALE",
+		"target": "Belgian Dark Strong Ale"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Gose"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Kentucky Common"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Lichtenhainer"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "London Brown Ale"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Piwo Grodziskie"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Pre-Prohibition Lager"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Pre-Prohibition Porter"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Roggenbier"
+	  },
+	  {
+		"source": "27. HISTORICAL BEER",
+		"target": "Sahti"
+	  },
+	  {
+		"source": "28. AMERICAN WILD ALE",
+		"target": "Brett Beer"
+	  },
+	  {
+		"source": "28. AMERICAN WILD ALE",
+		"target": "Mixed-Fermentation Sour Beer"
+	  },
+	  {
+		"source": "28. AMERICAN WILD ALE",
+		"target": "Wild Specialty Beer"
+	  },
+	  {
+		"source": "29. FRUIT BEER",
+		"target": "Fruit Beer"
+	  },
+	  {
+		"source": "29. FRUIT BEER",
+		"target": "Fruit and Spice Beer"
+	  },
+	  {
+		"source": "29. FRUIT BEER",
+		"target": "Specialty Fruit Beer"
+	  },
+	  {
+		"source": "30. SPICED BEER",
+		"target": "Spice, Herb, or Vegetable Beer"
+	  },
+	  {
+		"source": "30. SPICED BEER",
+		"target": "Autumn Seasonal Beer"
+	  },
+	  {
+		"source": "30. SPICED BEER",
+		"target": "Winter Seasonal Beer"
+	  },
+	  {
+		"source": "31. ALTERNATIVE FERMENTABLES BEER",
+		"target": "Alternative Grain Beer"
+	  },
+	  {
+		"source": "31. ALTERNATIVE FERMENTABLES BEER",
+		"target": "Alternative Sugar Beer"
+	  },
+	  {
+		"source": "32. SMOKED BEER",
+		"target": "Classic Style Smoked Beer"
+	  },
+	  {
+		"source": "32. SMOKED BEER",
+		"target": "Specialty Smoked Beer"
+	  },
+	  {
+		"source": "33. WOOD BEER",
+		"target": "Wood-Aged Beer"
+	  },
+	  {
+		"source": "33. WOOD BEER",
+		"target": "Specialty Wood-Aged Beer"
+	  },
+	  {
+		"source": "34. SPECIALTY BEER",
+		"target": "Clone Beer"
+	  },
+	  {
+		"source": "34. SPECIALTY BEER",
+		"target": "Mixed-Style Beer"
+	  },
+	  {
+		"source": "34. SPECIALTY BEER",
+		"target": "Experimental Beer"
+	  }
+	]
+}
